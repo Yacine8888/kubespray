@@ -1,2 +1,2 @@
 # kubespray
-kubespray deplpyment to test flux
+kubespray deployment to test flux
